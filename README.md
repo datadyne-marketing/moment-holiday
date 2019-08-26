@@ -6,10 +6,9 @@
 See https://github.com/kodie/moment-holiday/issues/19 for why this fork was made.
 
 ```sh
-npm install --save https://github.com/datadyne-marketing/moment-holiday\#1.5.2-webpack.0
-
+npm install --save https://github.com/datadyne-marketing/moment-holiday
 # Or
-yarn add https://github.com/datadyne-marketing/moment-holiday\#1.5.2-webpack.0
+yarn add https://github.com/datadyne-marketing/moment-holiday
 ```
 
 ## Documentation
